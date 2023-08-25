@@ -1,0 +1,43 @@
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar {
+  background-color: #afafaf;
+  border-bottom: 3px solid grey;
+}
+
+.carousel {
+  width: 1300px;
+}
+.district {
+  font-size: 18px;
+}
+.carousel-container__img {
+  height: 570px;
+}
+
+.text-indent {
+  text-indent: 1.5em;
+  text-align: justify;
+}
+
+.text-container1 {
+  width: 600px;
+}
+
+.ch_img {
+  width: 550px;
+  height: 340px;
+}
+
+.row {
+  --bs-gutter-x: 2rem;
+}
+.card{
+  margin: 0.05;
+}
